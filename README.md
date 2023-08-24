@@ -1,2 +1,1 @@
-# excel_challenge
-Challenge 1 for Columbia BootCamp 
+Answers to any questions are in the Word Document. 
