@@ -1,1 +1,1 @@
-Answers to any questions are in the Word Document. 
+All analyses are in the word document. 
